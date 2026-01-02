@@ -1,6 +1,6 @@
 # Mixo Ads Campaign Monitoring Dashboard
 
-A premium, production-ready dashboard built for monitoring AI-driven advertising campaigns across multiple platforms.
+A production-ready dashboard built for monitoring AI-driven advertising campaigns across multiple platforms.
 
 ## 🚀 Features
 
